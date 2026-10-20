@@ -37,7 +37,7 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ## About Me
 Hello Fellas! 
-I'm **Gagan** and I am a Data Freak trying my best to learn about **Data** and **Data Analytics** so that I can become excellent in the Field and Achieve my dream of getting A high paying job in this field.
+I'm **Gagan** and I am a Data Freak trying my best to learn about **Data** and **Data Analytics** so that I can become excellent in the Field and become as Learned and Professional as Possible.
 Hope you like and appreciate my work.
 
 **Thank you ! :)**
